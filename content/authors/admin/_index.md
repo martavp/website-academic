@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marta Victoria
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Solar Photovoltaics and Energy System Modelling
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Aarhus University
+  url: https://pure.au.dk/portal/en/persons/marta-victoria(85c9cc23-6c66-44fa-9cdc-cfceb955cd9b).html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -45,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/martavictoria_p
+- icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ZMH8qNYAAAAJ&hl=es&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/martavp
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/marta-victoria-4189b388/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,15 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I work as an Assistant Professor at [Aarhus University](https://international.au.dk/). My research focuses on the modelling of large scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained my BSc and MSc in Aerospace Engineering at the [Technical University of Madrid](https://www.upm.es/internacional) where I also got my PhD on high-efficiency photovoltaic modules at the [Solar Energy Insitute](https://www.ies.upm.es/). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Currently, I participate in the [REINVEST project](https://reinvestproject.eu/) where we research alternative transition pathways for Europe and Denmark, and in the [HYPERFARM project](https://hyperfarm.eu/), where we investigate different Agrivoltaics concepts.
+
+I'm a participant in the Open Energy Modelling Initiative, which aims to promote openess and transparency in energy system modelling and I co-develop the open-source energy model [PyPSA-Eur-Sec](https://pypsa-eur-sec.readthedocs.io/en/latest/).
+
+## Contact ##
+I'm always interested to speak to enthusiastic students looking for a thesis project or research experience. [Send me an email](mvp@mpe.au.dk) with your CV and research interests.
+
+
