@@ -16,7 +16,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-04-12T00:00:00Z"
+date: "2020-12-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ publication_types: ["2"]
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: For a given carbon budget over several decades, different transformation rates for the energy system yield starkly different results. Here we consider a budget of 33 GtCO2 for the cumulative carbon dioxide emissions from the European electricity, heating, and transport sectors between 2020 and 2050, which represents Europe’s contribution to the Paris Agreement. We have found that following an early and steady path in which emissions are strongly reduced in the first decade is more cost-effective than following a late and rapid path in which low initial reduction targets quickly deplete the carbon budget and require a sharp reduction later. We show that solar photovoltaic, onshore and offshore wind can become the cornerstone of a fully decarbonised energy system and that installation rates similar to historical maxima are required to achieve timely decarbonisation. Key to those results is a proper representation of existing balancing strategies through an open, hourly-resolved, networked model of the sector-coupled European energy system.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
