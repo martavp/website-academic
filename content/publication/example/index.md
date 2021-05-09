@@ -47,14 +47,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41467-020-20015-4'
 url_code: 'https://github.com/martavp/pypsa-eur-sec-30-path'
 url_dataset: 'https://zenodo.org/record/4010644#.YJgeVaGUVhE'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
