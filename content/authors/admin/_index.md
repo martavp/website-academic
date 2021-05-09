@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I work as an Assistant Professor at [Aarhus University](https://international.au.dk/). My research focuses on the modelling of large scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
+I am Assistant Professor at de Department of Mechanical and Production Engineering at [Aarhus University](https://international.au.dk/). My research focuses on the modelling of large scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
 
 I obtained my BSc and MSc in Aerospace Engineering at the [Technical University of Madrid](https://www.upm.es/internacional) where I also got my PhD on high-efficiency photovoltaic modules at the [Solar Energy Insitute](https://www.ies.upm.es/). 
 
