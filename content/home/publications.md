@@ -1,4 +1,4 @@
-
++++
 # This section displays content from from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -63,5 +63,5 @@ title = "Recent publications"
  
  # CSS class.
  css_class = ""
-
++++
 
