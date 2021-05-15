@@ -10,9 +10,8 @@ title = "Teaching"
 +++
 
 ## Teaching
-Currently, I teach the following M.Sc. courses:
-* **Fall semester** [Solar Energy](https://kursuskatalog.au.dk/da/course/109481/Solar-Energy), [Renewable Energy Systems](https://kursuskatalog.au.dk/da/course/108460/Renewable-Energy%C2%A0Systems), [Renewable Energy Technologies](https://kursuskatalog.au.dk/da/course/108461/Renewable-Energy-Technologies)
-* **Spring semester** [Thermodynamics](https://kursuskatalog.au.dk/da/course/104828/Thermodynamics)
+Currently, I teach the following M.Sc. courses at the Department of Mechanical and Production Engineering at Aarhus University. In the fall semester, I teach [Solar Energy](https://kursuskatalog.au.dk/da/course/109481/Solar-Energy), and [Renewable Energy Systems](https://kursuskatalog.au.dk/da/course/108460/Renewable-Energy%C2%A0Systems). I also participate in the course [Renewable Energy Technologies](https://kursuskatalog.au.dk/da/course/108461/Renewable-Energy-Technologies).
+In the spring semester I teach [Thermodynamics](https://kursuskatalog.au.dk/da/course/104828/Thermodynamics).
 
 
 
