@@ -1,27 +1,21 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/ # This section displays content from from `content/publication/`.
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Research Items"
-subtitle = "Journal articles, conference papers, talks and code"
+title = "Recent publications"
+#subtitle = "Journal articles, conference papers, talks and code"
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "publication"  # Page type to display. E.g. post, talk, or publication.
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 0 # Choose how much pages you would like to display (0 = all pages)
   
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  offset = 0  # Choose how many pages you would like to offset by
+  
+  order = "desc" # Page order. Descending (desc) or ascending (asc) date.
 
   # Filter posts by a taxonomy term.
   [content.filters]
