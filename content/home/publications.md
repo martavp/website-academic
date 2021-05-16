@@ -3,7 +3,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/ # This section displays content from from `content/publication/`.
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 180  # Order that this section will appear.
 
 title = "Recent publications"
 subtitle = "A [Complete list of publications](uploads/Public_Outreach_Marta_Victoria.pdf) is also available."

@@ -3,11 +3,11 @@ title: "Solar photovoltaics is ready to power a sustainable future"
 
 authors:
 - admin
-- NancyHaegel
-- Ian MariusPeters
-- RonSinton
-- ArnulfJäger-Waldau
-- Carlosdel Cañizo
+- Nancy Haegel
+- Ian Marius Peters
+- Ron Sinton
+- Arnulf Jäger-Waldau
+- Carlos del Cañizo
 - Christian Breyer
 - Matthew Stocks
 - Andrew Blakers
