@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent publications"
-subtitle = "Complet [list](uploads/Public_Outreach_Marta_Victoria.pdf) "
+subtitle = "A [Complete list of publications](uploads/Public_Outreach_Marta_Victoria.pdf) is also available."
 
 [content]
   page_type = "publication"  # Page type to display. E.g. post, talk, or publication.
