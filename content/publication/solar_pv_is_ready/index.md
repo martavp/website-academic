@@ -17,19 +17,20 @@ authors:
 
 date: "2021-03-29T00:00:00Z"
 
-#url_twitter: 'https://twitter.com/martavictoria_p/status/1376810389070094338'
-
 
 links:
   - icon_pack: fas
     icon: book
-    name: preprint
-    url: 'https://10.1016/j.joule.2021.03.005'
+    name: pdf
+    url: 'https://doi.org/10.1016/j.joule.2021.03.005'
   - icon_pack: fas
     icon: code
     name: code
     url: 'https://github.com/martavp/pv-is-ready'
-
+ - icon_pack: fas
+    icon: twitter
+    name: Twitter
+    url:  'https://twitter.com/martavictoria_p/status/1376810389070094338'
 
 image:
   placement: 1  
