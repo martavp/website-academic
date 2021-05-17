@@ -29,7 +29,7 @@ links:
 #    url:  'https://twitter.com/martavictoria_p/status/1334825679028948992'
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: "Smart"
 
 ---

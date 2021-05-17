@@ -35,7 +35,7 @@ links:
 image:
   placement: 1  
   focal_point: "Smart"
-  caption: 'Figure 5 from manuscript showing ...'
+  caption: ''
 
 
 ---
