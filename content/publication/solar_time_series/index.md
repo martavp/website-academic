@@ -15,7 +15,7 @@ links:
   - icon_pack: fas
     icon: book
     name: preprint
-    url: 'https://arxiv.org/abs/1807.10044 '
+    url: 'https://arxiv.org/abs/1807.10044'
 #  - icon_pack: fas
 #    icon: code
 #    name: code
@@ -35,4 +35,4 @@ image:
 
 ---
 
-Here, we proposed a method to convert irradiance data from reanalysis into solar generation time series and validated them using historical data. The model was used to produce long-term time series for 30 European countries that are used by myself and others as input for energy models. The time series were released under an open-license and was selected for [the cover of the July 2019 issue of Progress in Photovoltaics](https://onlinelibrary.wiley.com/toc/1099159x/2019/27/7).
+Here, we proposed a method to convert irradiance data from reanalysis into solar generation time series and validated them using historical data. The model was used to produce long-term time series for 30 European countries that are used as input for large-scale energy models. The time series were released under an open-license and the paper was selected for [the cover of the July 2019 issue of Progress in Photovoltaics](https://onlinelibrary.wiley.com/toc/1099159x/2019/27/7).

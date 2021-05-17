@@ -18,7 +18,7 @@ links:
   - icon_pack: fas
     icon: book
     name: preprint
-    url: 'https://arxiv.org/abs/1911.06629 '
+    url: 'https://arxiv.org/abs/1911.06629'
 #  - icon_pack: fas
 #    icon: code
 #    name: code

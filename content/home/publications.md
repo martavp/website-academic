@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 180  # Order that this section will appear.
 
-title = "Recent publications"
+title = "Selected publications"
 subtitle = "A [complete list of publications](uploads/Public_Outreach_Marta_Victoria.pdf) is also available."
 
 [content]
