@@ -23,10 +23,10 @@ links:
     icon: code
     name: data
     url: 'https://zenodo.org/record/4010644#.YJgeVaGUVhE'
- - icon_pack: fas
-    icon: twitter
-    name: Twitter
-    url:  'https://twitter.com/martavictoria_p/status/1334825679028948992'
+# - icon_pack: fas
+#    icon: twitter
+#    name: Twitter
+#    url:  'https://twitter.com/martavictoria_p/status/1334825679028948992'
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
