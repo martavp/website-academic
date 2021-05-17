@@ -30,7 +30,7 @@ subtitle = "A [Complete list of publications](uploads/Public_Outreach_Marta_Vict
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.

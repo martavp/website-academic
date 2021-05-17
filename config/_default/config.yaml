@@ -1,7 +1,4 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
 
 title: Marta Victoria # Website name
 baseurl: '' # Website URL
@@ -57,7 +54,7 @@ markup:
     endLevel: 3
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 90
   anchor: smart
 timeout: 600000
 taxonomies:
