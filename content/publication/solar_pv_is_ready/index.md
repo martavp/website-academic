@@ -27,7 +27,7 @@ links:
     icon: code
     name: code
     url: 'https://github.com/martavp/pv-is-ready'
- - icon_pack: fas
+  - icon_pack: fas
     icon: twitter
     name: Twitter
     url:  'https://twitter.com/martavictoria_p/status/1376810389070094338'
@@ -35,7 +35,7 @@ links:
 image:
   placement: 1  
   focal_point: "Smart"
-#caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Figure 5 from manuscript showing ...'
 
 
 ---

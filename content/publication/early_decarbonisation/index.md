@@ -10,16 +10,23 @@ authors:
 
 date: "2020-12-04T00:00:00Z"
 
-url_pdf: 'https://www.nature.com/articles/s41467-020-20015-4'
-url_code: 'https://github.com/martavp/pypsa-eur-sec-30-path'
-url_dataset: 'https://zenodo.org/record/4010644#.YJgeVaGUVhE'
-url_twitter: 'https://twitter.com/martavictoria_p/status/1334825679028948992'
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
-
+links:
+  - icon_pack: fas
+    icon: book
+    name: pdf
+    url: 'https://www.nature.com/articles/s41467-020-20015-4'
+  - icon_pack: fas
+    icon: code
+    name: code
+    url: 'https://github.com/martavp/pypsa-eur-sec-30-path'
+  - icon_pack: fas
+    icon: code
+    name: data
+    url: 'https://zenodo.org/record/4010644#.YJgeVaGUVhE'
+ - icon_pack: fas
+    icon: twitter
+    name: Twitter
+    url:  'https://twitter.com/martavictoria_p/status/1334825679028948992'
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
