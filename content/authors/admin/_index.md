@@ -73,11 +73,11 @@ email: ""
 highlight_name: false
 ---
 
-I am an Assistant Professor at the Department of Mechanical and Production Engineering at [Aarhus University](https://pure.au.dk/portal/en/persons/marta-victoria%2885c9cc23-6c66-44fa-9cdc-cfceb955cd9b%29.html). My research focuses on the modelling of large scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
+I am Assistant Professor at the Department of Mechanical and Production Engineering at [Aarhus University](https://pure.au.dk/portal/en/persons/marta-victoria%2885c9cc23-6c66-44fa-9cdc-cfceb955cd9b%29.html). My research focuses on the modelling of large scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
 
 I obtained my BSc and MSc in Aerospace Engineering at the [Technical University of Madrid](https://www.etsiae.upm.es/index.php?id=etsiae&L=1) where I also got my PhD on high-efficiency photovoltaic modules at the [Solar Energy Insitute](https://www.ies.upm.es/). 
 
-Currently, I participate in the [REINVEST project](https://reinvestproject.eu/) where we research alternative transition pathways for Europe and Denmark, and in the [HYPERFARM project](https://hyperfarm.eu/), where we investigate different Agrivoltaics concepts.
+Currently, I participate in the [REINVEST project](https://reinvestproject.eu/) to research alternative transition pathways for Europe and Denmark, and in the [HYPERFARM project](https://hyperfarm.eu/), where we investigate different Agrivoltaics concepts.
 
 I am a member of the [Open Energy Modelling Initiative](https://openmod-initiative.org/), which aims to promote openness and transparency in energy system modelling and I co-develop the open-source energy model [PyPSA-Eur-Sec](https://pypsa-eur-sec.readthedocs.io/en/latest/).
 
