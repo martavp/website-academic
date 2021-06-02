@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 
 active = true  
-weight = 100  
+weight = 40  
 
 title = "Teaching"
 #subtitle = " ..."
