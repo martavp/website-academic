@@ -6,7 +6,7 @@ title: Marta Victoria
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Solar Photovoltaics and Energy Systems Modelling
+role: Associate Professor of Solar Photovoltaics and Energy Systems Modelling
 
 # Organizations/Affiliations to show in About widget
 organizations:
