@@ -77,7 +77,7 @@ I am Assistant Professor at the Department of Mechanical and Production Engineer
 
 I obtained my BSc and MSc in Aerospace Engineering at the [Technical University of Madrid](https://www.etsiae.upm.es/index.php?id=etsiae&L=1) where I also got my PhD on high-efficiency photovoltaic modules at the [Solar Energy Institute](https://www.ies.upm.es/). 
 
-Currently, I participate in the [REINVEST project](https://reinvestproject.eu/) to research alternative transition pathways for Europe and Denmark, and in the [HYPERFARM project](https://hyperfarm.eu/), where we investigate different Agrivoltaics concepts.
+Currently, I participate in the [REINVEST project](https://reinvestproject.eu/) to research alternative transition pathways for Europe and Denmark, and in the [HYPERFARM project](https://hyperfarm.eu/), where we investigate different Agrivoltaic concepts.
 
 I am a member of the [Open Energy Modelling Initiative](https://openmod-initiative.org/), which aims to promote openness and transparency in energy system modelling, and I co-develop the open-source energy model [PyPSA-Eur-Sec](https://pypsa-eur-sec.readthedocs.io/en/latest/).
 
