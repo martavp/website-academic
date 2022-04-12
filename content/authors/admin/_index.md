@@ -73,12 +73,12 @@ email: ""
 highlight_name: false
 ---
 
-I am Associate Professor at the Department of Mechanical and Production Engineering at [Aarhus University](https://pure.au.dk/portal/en/persons/marta-victoria%2885c9cc23-6c66-44fa-9cdc-cfceb955cd9b%29.html). My research focuses on the modelling of large-scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
+I am an Associate Professor at the Department of Mechanical and Production Engineering at [Aarhus University](https://pure.au.dk/portal/en/persons/marta-victoria%2885c9cc23-6c66-44fa-9cdc-cfceb955cd9b%29.html). My research focuses on the modelling of large-scale energy systems with high renewable penetration paying special attention to the role of solar photovoltaics.
 
-I obtained my BSc and MSc in Aerospace Engineering at the [Technical University of Madrid](https://www.etsiae.upm.es/index.php?id=etsiae&L=1) where I also got my PhD on high-efficiency photovoltaic modules at the [Solar Energy Institute](https://www.ies.upm.es/). 
+I obtained my BSc and MSc in Aerospace Engineering at the [Technical University of Madrid](https://www.etsiae.upm.es/index.php?id=etsiae&L=1) where I also got my PhD in high-efficiency photovoltaic modules at the [Solar Energy Institute](https://www.ies.upm.es/). 
 
 Currently, I participate in the [REINVEST project](https://reinvestproject.eu/) to research alternative transition pathways for Europe and Denmark, and in the [HYPERFARM project](https://hyperfarm.eu/), where we investigate different Agrivoltaic concepts.
-Moreover, I lead Aarhus University participation in the [AURORA project](https://www.aurora-h2020.eu/) where we are establishing energy communities at for major technical universities in Europe. 
+Moreover, I lead Aarhus University's participation in the [AURORA project](https://www.aurora-h2020.eu/) where we are establishing energy communities at four major technical universities in Europe. 
 
 I am a member of the [Open Energy Modelling Initiative](https://openmod-initiative.org/), which aims to promote openness and transparency in energy system modelling, and I co-develop the open-source energy model [PyPSA-Eur-Sec](https://pypsa-eur-sec.readthedocs.io/en/latest/).
 
