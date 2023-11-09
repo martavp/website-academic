@@ -1,30 +1,25 @@
 ---
-title: "Comparative analysis of photovoltaic configurations for agrivoltaic systems in Europe"
+title: "Long-term implications of reduced gas imports on the decarbonization of the European energy system"
 
 authors:
-- Kamran Ali Khan Niazi
+- Tim Tørnes Pedersen
+- Ebbe Khyl Gøtske
+- Adam Dvorak
+- Gorm Bruun Andresen
 - admin
 
-date: "2023-09-01T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 
 
 links:
   - icon_pack: fas
     icon: book
     name: pdf
-    url: 'https://doi.org/10.1002/pip.3727'
-  - icon_pack: fas
-    icon: book
-    name: preprint
-    url: 'https://arxiv.org/abs/2211.00331'
-#  - icon_pack: fas
-#    icon: code
-#    name: code
-#    url:
+    url: 'https://doi.org/10.1016/j.joule.2022.06.023'
   - icon_pack: fas
     icon: twitter
     name: Twitter
-    url:  'https://twitter.com/martavictoria_p/status/1692567742631547107'
+    url: https://twitter.com/martavictoria_p/status/1550221016231809024
 
 image:
 #  placement: 1  
