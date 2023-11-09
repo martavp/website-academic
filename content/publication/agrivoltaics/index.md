@@ -16,15 +16,15 @@ links:
   - icon_pack: fas
     icon: book
     name: preprint
-    url: 'https://arxiv.org/abs/1911.06629'
+    url: 'https://arxiv.org/abs/2211.00331'
 #  - icon_pack: fas
 #    icon: code
 #    name: code
 #    url:
-#  - icon_pack: fas
-#    icon: twitter
-#    name: Twitter
-#    url:  ''
+  - icon_pack: fas
+    icon: twitter
+    name: Twitter
+    url:  'https://twitter.com/AURORA_Aarhus/status/1721830580361331189'
 
 image:
 #  placement: 1  
