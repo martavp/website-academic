@@ -16,7 +16,7 @@ links:
 #  - icon_pack: fas
 #    icon: code
 #    name: code
-3    url:
+#    url:
 #  - icon_pack: fas
 #    icon: twitter
 #    name: Twitter
