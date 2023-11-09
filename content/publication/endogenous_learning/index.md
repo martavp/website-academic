@@ -17,7 +17,7 @@ links:
   - icon_pack: fas
     icon: book
     name: preprint
-    url: 'https://arxiv.org/abs/2205.119011'
+    url: 'https://arxiv.org/abs/2205.11901'
 
 image: 
   focal_point: "Smart"
