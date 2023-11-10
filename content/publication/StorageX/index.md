@@ -1,10 +1,8 @@
 ---
-title: "Long-term implications of reduced gas imports on the decarbonization of the European energy system"
+title: "Cost and Efficiency Requirements for Successful Electricity Storage in a Highly Renewable European Energy System"
 
 authors:
-- Tim Tørnes Pedersen
 - Ebbe Khyl Gøtske
-- Adam Dvorak
 - Gorm Bruun Andresen
 - admin
 
@@ -16,10 +14,7 @@ links:
     icon: book
     name: pdf
     url: 'https://doi.org/10.1016/j.joule.2022.06.023'
-  - icon_pack: fas
-    icon: twitter
-    name: Twitter
-    url: https://twitter.com/martavictoria_p/status/1550221016231809024
+  
 
 image:
 #  placement: 1  
