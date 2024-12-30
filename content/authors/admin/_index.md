@@ -10,8 +10,8 @@ role: Associate Professor of Solar Photovoltaics and Energy Systems Modelling
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Aarhus University
-  url: https://pure.au.dk/portal/en/persons/marta-victoria(85c9cc23-6c66-44fa-9cdc-cfceb955cd9b).html
+- name: Technical University of Denmark
+  url: https://www.dtu.dk/english/person/marta-victoria?id=214968&entity=profile
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
