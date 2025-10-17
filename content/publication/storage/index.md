@@ -37,5 +37,5 @@ image:
   focal_point: "Smart"
 
 ---
-The analysis included in this paper overcomes the previous common understanding (“storage is needed in highly renewable energy systems”) by showing the emergence of two different kind of storage technologies and the requirement to combine both to ensure feasible operation of the system. The two storage technologies show fundamentally different characteristics (energy and power capacities) and operation patterns, ensuring the balancing of renewable fluctuations at different timescales. 
+The analysis included in this paper overcomes the previous common understanding (“storage is needed in highly renewable energy systems”) by showing the emergence of two different kinds of storage technologies and the requirement to combine both to ensure the feasible operation of the system. The two storage technologies show fundamentally different characteristics (energy and power capacities) and operation patterns, ensuring the balancing of renewable fluctuations at different timescales. 
 
