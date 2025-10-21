@@ -84,6 +84,6 @@ I am a member of the [Open Energy Modelling Initiative](https://openmod-initiati
 
 
 ## Contact ##
-I'm always interested n talking to enthusiastic students looking for a thesis project or research experience. [Send me an email](https://www.dtu.dk/english/person/marta-victoria?id=214968&entity=profile) with your CV and research interests.
+I'm always interested in talking to enthusiastic students looking for a thesis project or research experience. [Send me an email](https://www.dtu.dk/english/person/marta-victoria?id=214968&entity=profile) with your CV and research interests.
 
 

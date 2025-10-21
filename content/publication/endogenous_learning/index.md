@@ -4,7 +4,7 @@ title: "Endogenous learning for green hydrogen in a sector-coupled energy model 
 authors:
 - Elisabeth Zeyen
 - admin
-- Tm Brown
+- Tom Brown
 
 date: "2023-07-01T00:00:00Z"
 

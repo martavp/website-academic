@@ -3,15 +3,21 @@ widget = "blank"
 headless = true
 
 active = true  
-weight = 40  
+weight = 40
 
 title = "Teaching"
 #subtitle = " ..."
 +++
+
 # Courses
-Currently, I teach the following MSc courses at the Department of Mechanical and Production Engineering at Aarhus University. In the fall semester, I teach [Solar Energy](https://kursuskatalog.au.dk/da/course/109481/Solar-Energy), and [Renewable Energy Systems](https://kursuskatalog.au.dk/da/course/108460/Renewable-Energy%C2%A0Systems). I also participate in the course [Renewable Energy Technologies](https://kursuskatalog.au.dk/da/course/108461/Renewable-Energy-Technologies).
-In the spring semester, I teach [Thermodynamics](https://kursuskatalog.au.dk/da/course/104828/Thermodynamics).
+
+At DTU, every Spring semester, I teach the MSc course on [Integrated Energy Grids](https://martavp.github.io/integrated-energy-grids/intro.html).
 
 
 
+Previously, at Aarhus University, I have taught courses on [Solar Energy](https://kursuskatalog.au.dk/da/course/109481/Solar-Energy), and [Macro-Energy Systems Modelling](https://kursuskatalog.au.dk/da/course/121809/Macro-Energy-Systems-Modelling), and [Thermodynamics](https://kursuskatalog.au.dk/da/course/104828/Thermodynamics).
+
+
+
+I have edited a [textbook on Solar Photovoltaics](https://www.sciencedirect.com/book/9780323961059/fundamentals-of-solar-cells-and-photovoltaic-systems-engineering#book-description), which is complemented by an [online repository with updated links relevant to every topic and script-based solutions](https://martavp.github.io/pv-textbook/intro.html) for the problems proposed in every chapter. 
 
