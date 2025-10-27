@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Selected publications"
-subtitle = "See a complete list of publications [here](uploads/list_of_publications.pdf)."
+title = ""
+subtitle = ""
 
 [content]
   page_type = "publication"  # Page type to display. E.g. post, talk, or publication.
